@@ -51,3 +51,4 @@ modes = [
 * That's it! Run the app and your new mode viz should appear in the dashboard, under its own navigation tab.
 
 > Note: If you new mode requires some special settings for the board, we recommend that you add this logic in the `state.State` class, inside the `set_mode()` method.
+this is my first test.
